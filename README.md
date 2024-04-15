@@ -2,6 +2,11 @@
 
 ## Answer of subjective questions
 
+
+## Table
+<img width="997" alt="Screenshot 2024-04-15 at 6 37 33 PM" src="https://github.com/rutwik1440/ML_assignment_4/assets/111031848/1909a038-3546-4755-a39b-ef442d9d30dc">
+
+
 ### Are the results as expected? Why or why not?
 
 Yes results are as expeceted. 
